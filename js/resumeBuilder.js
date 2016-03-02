@@ -8,3 +8,4 @@ var img = "C:\Users\jyots\Desktop\Scrapbook\Box Pics\103APPLE\IMG_3480.jpg"
 $("#header").append(myheadername);
 $("#header").append(myheaderrole);
 $("#header").append(bio);
+$("#header").append(img);
