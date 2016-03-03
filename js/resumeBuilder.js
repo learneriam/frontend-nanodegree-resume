@@ -7,5 +7,5 @@ var bio = "Bellevue - 98007, Phone Nbr: 2066195346";
 var img = "images\IMG_3480.jpg"
 $("#header").append(myheadername);
 $("#header").append(myheaderrole);
-$("#header").append(bio);
+$("#main").append(bio);
 $("#header").append(img);
