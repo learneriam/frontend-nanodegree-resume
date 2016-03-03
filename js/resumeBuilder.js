@@ -9,14 +9,14 @@ $("#header").append(myheadername);
 $("#header").append(myheaderrole);
 $("#header").append(bio);
 
-var work ={curjob:'Senior PeopleSoft Developer', 
-  curemp:'Hughes Telecom',
-  curdur: 'Oct-2015 - Till date',
-  curcit: 'Washington, D.C.'
+var work ={"curjob":"Senior PeopleSoft Developer", 
+  "curemp":"Hughes Telecom",
+  "curdur": "Oct-2015 - Till date",
+  "curcit": "Washington, D.C."
 };
-var edu={sch:'College of Technology, GBPUAT, India',
-  year : '2004-2008'
-  major: 'B.Tech, Electronics and Communications'
+var edu={"sch":"College of Technology, GBPUAT, India",
+  "year" : "2004-2008",
+  "major": "B.Tech, Electronics and Communications"
 };
 $("#header").append(img);
 $("#main").append(work.curjob);
